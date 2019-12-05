@@ -1,0 +1,23 @@
+{
+  "name": "openlayersdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.html",
+  "dependencies": {
+    "ol": "^6.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefaneidelloth/openLayersDemo.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/stefaneidelloth/openLayersDemo/issues"
+  },
+  "homepage": "https://github.com/stefaneidelloth/openLayersDemo#readme"
+}
